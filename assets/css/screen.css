@@ -1,0 +1,21 @@
+@media screen and (min-width : 1200px)
+{
+  #p1
+  {
+    color: green;
+  }
+}
+@media screen and (min-width : 600px) and (max-width : 1199px)
+{
+  #p2
+  {
+    color: orange;
+  }
+}
+@media screen and (max-width : 599px)
+{
+  #p3
+  {
+    color: red;
+  }
+}
